@@ -1,0 +1,21 @@
+{
+    "name": "hvenus/laravel-saas-retail-ele-me",
+    "description": "翱象接口",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "license": "BSD 3-Clause License",
+    "autoload": {
+        "psr-4": {
+            "Hvenus\\LaravelSaasRetailEleMe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kevin",
+            "email": "kevin@fm618.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
