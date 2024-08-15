@@ -8,7 +8,7 @@
   "license": "BSD 3-Clause License",
   "autoload": {
     "psr-4": {
-      "Hvenus\\LaravelSaasRetailEleMe\\": "src/"
+      "hVenus\\LaravelSaasRetailEleMe\\": "src/"
     }
   },
   "authors": [
